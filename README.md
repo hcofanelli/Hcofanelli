@@ -2,7 +2,7 @@
 ##  📞 Información de Contacto
 
 - 📧 Email: hernancofanelli@gmail.com
-- 💻 GitHub: github.com/Hcofanelli
+- 💻 GitHub: github.com/hcofanelli
 ## 📄Resumen
 Ingeniero Electrónico dando los primeros pasos en la programación y el desarrollo web. Mi objetivo es convertirme en un full stack developer y trabajar en proyectos desafiantes y emocionantes. 
 
